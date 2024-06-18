@@ -157,7 +157,6 @@ function App() {
     },
     REDLINE: {
       color: 'red',
-      textDecoration: 'line-through',
     },
   };
 
